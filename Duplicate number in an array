@@ -12,8 +12,6 @@ class Solution {
             else{
                 d=i;
             }
-       
-
     }
         return nums[d];
   }
